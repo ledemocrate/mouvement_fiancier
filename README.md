@@ -37,5 +37,5 @@ Le script principal (`.R`) contient toute la logique de génération des donnée
 
 ---
 
-**Développé par:** [Votre Nom / Pseudo GitHub]
-**Date:** [Date Actuelle, par exemple : Juillet 2025]
+**Développé par:** goldentzgrahamz a.k.a coachdagrahamz a.k.a ledemocrate
+**Date:** 25 Juillet 2025
