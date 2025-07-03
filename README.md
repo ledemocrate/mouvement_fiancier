@@ -1,3 +1,5 @@
+ ![](https://github.com/ledemocrate/mouvement_financier/blob/main/mouvements_financiers_animation_adaptive_flux_final.gif)
+
 # Simulation et Visualisation des Flux Financiers entre Agents
 
 Ce projet vise à simuler et à visualiser les mouvements financiers au sein d'un réseau d'agents. Il explore la dynamique des soldes d'agents et les interactions de paiement au fil du temps.
